@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Nanum+Myeongjo:wght@700&display=swap');
+
+.menudiv {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.header {
+    display: flex;
+    padding: 15px 10px;
+    color: #de6114;
+    text-align: left;
+    font-family: 'Nanum Gothic', sans-serif;
+    height: 25px;
+}
+
+.h1 {
+    width: 50%;
+    font-size: 21px;
+    margin: 0;
+}
+
+.navmenu {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.menuimg {
+    cursor: pointer;
+    font-size: 21px;
+}

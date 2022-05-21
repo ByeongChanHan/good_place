@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Nanum+Myeongjo:wght@700&display=swap');
+
+.intro {
+    font-size: 36px;
+    text-align: center;
+    margin-top: 90px;
+    font-weight: 800;
+}
+
+.subintro {
+    margin: 30px 0 50px;
+    font-size: 18px;
+    text-align: center;
+    opacity: 0.6;
+    font-family: 'Nanum Gothic', sans-serif;
+}
